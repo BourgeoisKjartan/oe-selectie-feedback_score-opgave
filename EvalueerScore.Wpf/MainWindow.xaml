@@ -1,0 +1,19 @@
+﻿<Window x:Class="EvalueerScore.Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EvalueerScore.Wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <ListBox x:Name="lstScores" HorizontalAlignment="Left" Height="154" Margin="32,71,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Score" HorizontalAlignment="Left" Margin="35,34,0,0" VerticalAlignment="Top" Width="97"/>
+        <Button x:Name="btnOkOfNiet" Content="OK of Niet" HorizontalAlignment="Left" Margin="165,71,0,0" VerticalAlignment="Top" Width="176"/>
+        <Label x:Name="lblFeedback" Content="" HorizontalAlignment="Left" Margin="32,241,0,0" VerticalAlignment="Top" Width="309"/>
+        <Button x:Name="btnOkGoedNietOk" Content="OK, goed of niet OK" HorizontalAlignment="Left" Margin="165,96,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button x:Name="btnOkGoedNietOkSwitch" Content="OK, goed of niet OK switch" HorizontalAlignment="Left" Margin="165,147,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button x:Name="btnGedetailleerdeFeedback" Content="Gedetailleerde feedback" HorizontalAlignment="Left" Margin="165,122,0,0" VerticalAlignment="Top" Width="176"/>
+
+    </Grid>
+</Window>
