@@ -1,7 +1,16 @@
 oe-selectie-feedback_score
 # Oefening op verschillende manieren van selectie
 De bedoeling is dat er op basis van de input in lstScores feedback wordt gegeven over het gegeven punt.
-Bij elke wijziging in score wordt de tekst in lblFeedback gewist.
+Bij elke wijziging in score wordt de tekst in **lblFeedback** gewist.
+
+Wanneer de applicatie start dient de listbox *lstScores* opgevuld te worden met de getallen 1 t.e.m. 5.
+
+![Image](images/image-01.png)
+
+Voorbeeld werking applicatie:
+
+![Image](images/image-02.png)
+
 ## btnOkOfNiet
 Een score minder dan 3 is 'Niet OK', vanaf 3 'OK'
 ## btnOkGoedNietOk
