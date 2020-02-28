@@ -9,11 +9,11 @@
     <Grid>
         <ListBox x:Name="lstScores" HorizontalAlignment="Left" Height="154" Margin="32,71,0,0" VerticalAlignment="Top" Width="100"/>
         <Label Content="Score" HorizontalAlignment="Left" Margin="35,34,0,0" VerticalAlignment="Top" Width="97"/>
-        <Button x:Name="btnOkOfNiet" Content="OK of Niet" HorizontalAlignment="Left" Margin="165,71,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button x:Name="btnOkOfNiet" Content="OK of Niet" HorizontalAlignment="Left" Margin="165,71,0,0" VerticalAlignment="Top" Width="176" Click="btnOkOfNiet_Click"/>
         <Label x:Name="lblFeedback" Content="" HorizontalAlignment="Left" Margin="32,241,0,0" VerticalAlignment="Top" Width="309"/>
-        <Button x:Name="btnOkGoedNietOk" Content="OK, goed of niet OK" HorizontalAlignment="Left" Margin="165,96,0,0" VerticalAlignment="Top" Width="176"/>
-        <Button x:Name="btnOkGoedNietOkSwitch" Content="OK, goed of niet OK switch" HorizontalAlignment="Left" Margin="165,147,0,0" VerticalAlignment="Top" Width="176"/>
-        <Button x:Name="btnGedetailleerdeFeedback" Content="Gedetailleerde feedback" HorizontalAlignment="Left" Margin="165,122,0,0" VerticalAlignment="Top" Width="176"/>
+        <Button x:Name="btnOkGoedNietOk" Content="OK, goed of niet OK" HorizontalAlignment="Left" Margin="165,96,0,0" VerticalAlignment="Top" Width="176" Click="btnOkGoedNietOk_Click"/>
+        <Button x:Name="btnOkGoedNietOkSwitch" Content="OK, goed of niet OK switch" HorizontalAlignment="Left" Margin="165,147,0,0" VerticalAlignment="Top" Width="176" Click="btnOkGoedNietOkSwitch_Click"/>
+        <Button x:Name="btnGedetailleerdeFeedback" Content="Gedetailleerde feedback" HorizontalAlignment="Left" Margin="165,122,0,0" VerticalAlignment="Top" Width="176" Click="btnGedetailleerdeFeedback_Click"/>
 
     </Grid>
 </Window>

@@ -20,3 +20,17 @@ D:\PRB\H05\EvalueerScore-Start\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf_Mar
 D:\PRB\H05\EvalueerScore-Start\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf_MarkupCompile.lref
 D:\PRB\H05\EvalueerScore-Start\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.exe
 D:\PRB\H05\EvalueerScore-Start\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.pdb
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.csprojAssemblyReference.cache
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\MainWindow.g.cs
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\App.g.cs
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf_MarkupCompile.cache
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf_MarkupCompile.lref
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\bin\Debug\EvalueerScore.Wpf.exe.config
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\bin\Debug\EvalueerScore.Wpf.exe
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\bin\Debug\EvalueerScore.Wpf.pdb
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\MainWindow.baml
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.g.resources
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.Properties.Resources.resources
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.csproj.GenerateResource.cache
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.exe
+D:\Prb\Oefeningen\oe-selectie-feedback_score-opgave\EvalueerScore.Wpf\obj\Debug\EvalueerScore.Wpf.pdb
